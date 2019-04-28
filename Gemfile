@@ -27,6 +27,9 @@ gem 'devise-bootstrap-views'
 gem 'jquery-rails'
 gem "font-awesome-rails"
 gem 'stripe'
+gem 'carrierwave'
+gem 'mini_magick'
+gem 'fog-aws'
 
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
